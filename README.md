@@ -14,5 +14,5 @@ Aplicación en Python orientada a la gestión de entidades (personas, médicos, 
 - Python
 
 ## Autores
-Santiago Piñeyro
-Tiago Irrazabal
+- Santiago Piñeyro
+- Tiago Irrazabal
